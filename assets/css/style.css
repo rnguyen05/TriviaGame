@@ -1,0 +1,92 @@
+* {
+    box-sizing: border-box;
+    align-content: center;
+}
+
+body {
+     background-image: url("http://www.dogbreedslist.info/dog-wallpapers/Golden-Retriever-puppy-cute-paws-1440x900.jpg");
+ }
+
+h1 {
+    line-height: 1.5;
+} 
+#wrapper {
+    text-align: center;
+}
+
+#header-title {
+    font-family: 'Patua One', cursive;
+    font-size: 3.5rem;
+    color: white;
+    padding: 0px 10px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    text-shadow: 2px 2px 5px black;
+    border-bottom: solid 2px white;
+ }
+
+.startBtn {
+    color: white;
+    font-size: 36px;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 40px;
+    box-shadow: 2px 2px 5px black;
+ }
+
+ .startBtn:hover {
+     opacity: .75;
+     color: red;
+ }
+
+ .startGameImg {
+     width: 300px;
+     overflow: hidden;
+     box-shadow: 2px 2px 5px black;
+ }
+
+ .timeRemaining {
+     color: white;
+     font-weight: 1.5rem;
+     font-family: 'Concert One', cursive;
+     text-shadow: 2px 2px 5px black;
+     margin: 10px 0px 30px;
+ }
+
+ .timeRemainingRed {
+    color: red;
+    font-weight: 1.5rem;
+    font-family: 'Concert One', cursive;
+    text-shadow: 2px 2px 5px black;
+    margin: 10px 0px 30px;
+ }
+
+
+ .QA {
+    color: white;
+    font-weight: 2rem;
+    font-family: 'Concert One', cursive;
+    text-shadow: 2px 2px 5px black;
+    margin: 10px 0px 10px;
+}
+
+.choiceBtn {
+    height: 60px;
+    background-color: maroon;
+    border: solid 1px black;
+    margin: 15px 0px 10px;
+    font-family: 'Concert One', cursive;
+    color: white;
+    font-size: 25px;
+}
+
+.choiceBtn:hover {
+   opacity: 0.75;
+   background-color: gray;
+   color: black;
+   height: 60px;
+}
+
+
+
+ 
